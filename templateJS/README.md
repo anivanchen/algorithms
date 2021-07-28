@@ -1,5 +1,0 @@
-# Algorithm
-
-## References
-
-- [Wikipedia](https://)
